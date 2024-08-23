@@ -1,6 +1,6 @@
 # 🚗 AtliQ Motors - EV Market Expansion in India 📊
 
-![AtliQ Motors]()
+![AtliQ Motors](Dashboard.png)
 
 ## 📋 Project Overview
 AtliQ Motors, a leading name in the North American EV market, is planning to expand into India, where their market share is currently under 2%. This project explores the potential for growth, uncovers key market trends, and provides data-driven insights to guide their entry strategy.
