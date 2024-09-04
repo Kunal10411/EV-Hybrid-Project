@@ -12,7 +12,7 @@ With fierce competition and diverse regional challenges, AtliQ Motors needs a co
 - **Data Analysis:** Python, SQL
 - **Visualization:** Power BI, Tableau
 - **Presentation:** PowerPoint, Video Editing Software
-- **Research:** Industry Reports, Government Policies
+- **Research:** Industry Reports, Government Policies.
 
 ## 🔍 Key Findings
 - **Top Growth States:** Maharashtra, Karnataka, and Tamil Nadu show the highest EV adoption rates.
